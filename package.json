@@ -1,7 +1,7 @@
 {
   "name": "com.jimbio.behaviourtree",
   "version": "1.0.0",
-  "displayName": "Scriptable Behaviour Tree",
+  "displayName": "Behaviour Tree Scripts",
   "description": "A script-based behaviour tree.",
   "unity": "2022.1",
   "unityRelease": "14f1",
